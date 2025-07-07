@@ -13,3 +13,6 @@ Currently pursuing my **B.Tech degree** at **MIT Bangalore** 🎓
 
 ## 🔥 About Me  
 - 💡 Passionate about coding, development, and exploring new technologies!
+
+## 📜 Certificates
+[👉 View My Certificates](https://github.com/YourUsername/YourRepo/tree/main/certificates)
