@@ -9,6 +9,7 @@ Currently pursuing my **B.Tech degree** at **MIT Bangalore** 🎓
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/> &nbsp;  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/> &nbsp;  
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" alt="Scikit-learn" width="50" height="50"/> &nbsp;  
 </p>  
 
 ## 🔥 About Me  
@@ -16,4 +17,3 @@ Currently pursuing my **B.Tech degree** at **MIT Bangalore** 🎓
 
 ## 📜 Certificates
 🔗 [**Click here to view all my certificates** ](https://github.com/TEJAS-creator/Certificates)
-
