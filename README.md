@@ -9,7 +9,7 @@ Currently pursuing my **B.Tech degree** at **MIT Bangalore** 🎓
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="45"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/> &nbsp;
   <img src="https://img.icons8.com/ios-filled/50/1e90ff/database.png" width="50" height="50"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="50" height="400"/>
 
 </p>
 
