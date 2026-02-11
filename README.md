@@ -4,15 +4,15 @@ Currently pursuing my **B.Tech degree** at **MIT Bangalore** 🎓
 
 ## 🚀 Skills:
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="45"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="45"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/> &nbsp;
-  <img src="https://img.icons8.com/ios-filled/50/1e90ff/database.png" width="50" height="50"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="50" height="400"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48"/> &nbsp;
+  <img src="https://img.icons8.com/ios-filled/50/1e90ff/database.png" height="48"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png"
+       height="56"
+       style="vertical-align: middle;" />
 </p>
-
 
 
 
