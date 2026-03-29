@@ -11,6 +11,7 @@ Currently pursuing my **B.Tech degree** at **MIT Bangalore** 🎓
   <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png"
        height="40",width="50"
        style="vertical-align: middle;" />
+  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" height="48" style="vertical-align: middle;" />
 </p>
 
 
